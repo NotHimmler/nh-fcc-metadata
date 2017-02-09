@@ -1,0 +1,11 @@
+{
+  "name": "node-file-metadata",
+  "version": "1.0.0",
+  "description": "a node web app that allows users to upload files and get back the file size in bytes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heinrich Malan (heinrichmalan@hotmail.com)",
+  "license": "ISC"
+}
